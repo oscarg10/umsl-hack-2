@@ -1,4 +1,5 @@
 export default st => `
+<h1>LastCall</h1>
 <div id="hero" class="flex align-center justify-center" >
         <a href="./form/" class="button">Contact us</a>
       </div>
